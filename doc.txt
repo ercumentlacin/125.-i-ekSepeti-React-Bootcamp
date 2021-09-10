@@ -1,0 +1,1 @@
+sass to css için şu komutu uygulanmalı: sass --watch ./src/pages/branchismi/style.scss ./src/pages/branchismi/style.css
